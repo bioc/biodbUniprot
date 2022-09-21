@@ -1,3 +1,6 @@
+Changes in version 1.2.1 (2022-09-21)
++ Upgrade to new UniProt REST API.
+
 Changes in version 1.1.1 (2022-03-17)
 + Update maintenance files.
 + Correct instantiation in example.
